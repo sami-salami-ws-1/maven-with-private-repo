@@ -1,0 +1,13 @@
+<project>
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>sami</groupId>
+	<artifactId>WST_37_2</artifactId>
+	<version>1.0</version>
+	<dependencies>
+		<dependency>
+			<groupId>sami.private</groupId>
+			<artifactId>WST_37_nexus</artifactId>
+			<version>1.0</version>
+		</dependency>
+	</dependencies>
+</project>
