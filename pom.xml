@@ -6,7 +6,7 @@
 	<dependencies>
 		<dependency>
 			<groupId>sami.private</groupId>
-			<artifactId>WST_37_nexus</artifactId>
+			<artifactId>WST_37_artifactory</artifactId>
 			<version>1.0</version>
 		</dependency>
 	</dependencies>
